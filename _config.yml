@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kaya LeGrand"
-  avatar           : "kayalegrand.github.io/38F0452B-488D-47FC-8D7F-E43CDC82087A_1_105_c.jpeg"
+  avatar           : "https://github.com/kayalegrand/kayalegrand.github.io/blob/master/38F0452B-488D-47FC-8D7F-E43CDC82087A_1_105_c.jpeg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "UConn"
   employer         :
