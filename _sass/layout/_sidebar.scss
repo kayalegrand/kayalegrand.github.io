@@ -143,13 +143,13 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
 
   @include breakpoint($large) {
     display: block;
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
   }
 
   img {
@@ -157,6 +157,7 @@
     height: 100%;
     border-radius: 50%;
     object-fit: cover;
+     object-position: center bottom;
     border: 3px solid black;
   }
 }
