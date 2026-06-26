@@ -178,6 +178,7 @@
 }
 
 .author__name {
+display: none;
   margin: 0;
 
   @include breakpoint($large) {
@@ -206,13 +207,14 @@
   }
 }
 
-.author__bio {
+.sidebar .author__bio {
   margin: 0;
 
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
   }
+font-size: .85em; 
 }
 
 .author__urls-wrapper {
