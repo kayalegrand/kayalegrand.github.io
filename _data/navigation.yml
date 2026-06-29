@@ -12,16 +12,14 @@ main:
     url: /research/
 
   - title: "Publications and Presentations"
-    url: /publications/    
+    url: /publications/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
     
   - title: "CV"
-    url: /files/KL_CV_tex_June26.pdf
+    url: /files/KL_CV_June26.pdf
+    target: "_blank"
     
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/

@@ -14,7 +14,7 @@ a {
 }
 </style>
 
-My work aims to characterize the nature of language production and comprehension in autism. I am particularly interested in studying the language system in low-verbal autistic individuals to discover what cognitive and linguistic factors facilitate or prevent the transition to linguistic generativity, and to learn what this ________ can tell us about language in the mind and its relationship to other areas of cognition. I also hope that my work can ultimately help lead to the development of better clinical strategies to support the language and communication of autistic individuals.
+My work aims to characterize the nature of language production and comprehension in autism. I am particularly interested in studying the language system in low-verbal autistic individuals to discover what cognitive and linguistic factors facilitate or prevent the transition to linguistic generativity, and to learn what this ________ can tell us about language in the mind and its relationship to other areas of cognition. I hope that my work can ultimately help lead to the development of better clinical strategies to support the language and communication of autistic individuals.
 
 I use approaches and methods like longitudinal analysis, language sample analysis, eye gaze (preferential looking; Visual World Paradigm), and parent report to study language in autistic and neurotypical children and adults.
 
