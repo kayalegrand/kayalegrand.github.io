@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="https://kayalegrand.github.io/kayalegrand.academicpages.github.io/files/KL_CV_tex_June26.pdf" width="100%" height="800px">
+<iframe src="https://kayalegrand.github.io/kayalegrand.academicpages.github.io/files/KL_CV_tex_Aug26.pdf" width="100%" height="800px">
 </iframe>
